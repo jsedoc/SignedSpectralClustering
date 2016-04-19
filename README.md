@@ -5,7 +5,9 @@ need to add further documentation. ncutsK_v5 is interactive code. This is largel
 for visualization and inspection.
 
 The main function for usage is sncut(W,K) where W is the weight matrix and K
-is the number of clusters.
+is the number of clusters. 
+
+Optional type ... sncut(W,K,'type','hard'||'flex'||'soft')
 
 Please send questions to Joao Sedoc (joao at cis dot upenn dot edu).
 
